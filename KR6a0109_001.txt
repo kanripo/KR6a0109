@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:42.982175
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:39
 #+TITLE: 佛說轉法輪經
 #+PROPERTY: CBETA_ID T02n0109
 #+PROPERTY: ID KR6a0109
